@@ -1,0 +1,71 @@
+option 1
+
+(a)Mahatma Gandhi
+(b)Dr B.R Ambedkar
+(c)Sardar Valabhai Patel
+(d)P.Jawaharlal Nehru
+
+option 2
+
+(a)Bhopal
+(b)Jamshedpur
+(c)Ranchi
+(d)Aizawal
+
+option 3
+
+(a)Jupiter
+(b)Earth
+(c)Mars
+(d)Venus
+
+option 4
+
+(a)dollar
+(b)Franc
+(c)Euro
+(d)Livres
+
+option 5
+
+(a)Raja Ravi Verma
+(b)John Locke
+(c)Raja Ramohan Roy
+(d)Rabindranath Tagore
+
+option 6
+
+(a)General relativity
+(b)Special relativity
+(c)Law of the photoelectric effect
+(d)Theory of atom
+
+option 7
+
+(a)1950
+(b)1920
+(c)1945
+(d)1946
+
+option 8
+
+(a)Ahmad Shah Durrani and Marathas
+(b)Marathas and Britishers 
+(c)Akbar and Hemu
+(d)Britishers and Mughals
+
+option 9
+
+(a)1760
+(b)1759 
+(c)1857
+(d)1757
+
+option 10
+
+(a)1 November 2010
+(b)6 Febuary 2001
+(c)3 July 2000
+(d)30 July 2002
+
+option 11
